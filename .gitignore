@@ -1,0 +1,20 @@
+# Recovered key material and account identity -- NEVER commit these.
+key.json
+identity.json
+config.json
+
+# Decrypted plaintext databases and encrypted DB copies -- NEVER commit.
+*.db
+*.db-wal
+*.db-shm
+
+# Runtime state / derived data
+watermark.json
+group_map.json
+runs/
+mention-search/
+*.log
+
+# Python
+__pycache__/
+*.pyc
