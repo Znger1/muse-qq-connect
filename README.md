@@ -1,5 +1,7 @@
 # qq-reader
 
+**实测状态：** 项目所有者已确认完成 Linux QQ 环境实测（2026-10-23）。已验证版本与兼容性范围见下文。
+
 **English summary:** `qq-reader` is the read-only connection pipeline
 that lets an AI assistant (**Muse**) plug into your *own* QQ account:
 a scheduled agent SSHes into the QQ host, runs one pull command, and
