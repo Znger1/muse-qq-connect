@@ -4,9 +4,9 @@
 
 ## 视频演示
 
-https://github.com/user-attachments/assets/fd39ba91-f13d-4b68-82f1-6a9a0f48f6fb
+https://github.com/user-attachments/assets/a703ed04-c708-4925-aca3-20e7e7096ee2
 
-> 30 秒 · 1080p。Muse AI 界面为演示设计，联系人和消息均为虚构示例；筛选与通知需要在助手侧配置。
+> 30 秒 · 1080p。Muse 界面采用提供的真实截图，QQ 提示中的联系人和消息为虚构示例；筛选与通知需要在助手侧配置。
 
 ---
 
