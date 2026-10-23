@@ -1,4 +1,14 @@
-# qq-reader
+# muse-qq-connect
+
+让 Muse 读懂你的 QQ 新消息，按你在助手侧配置的规则及时提醒，避免错过重要消息。
+
+## 视频演示
+
+https://github.com/user-attachments/assets/fd39ba91-f13d-4b68-82f1-6a9a0f48f6fb
+
+> 30 秒 · 1080p。Muse AI 界面为演示设计，联系人和消息均为虚构示例；筛选与通知需要在助手侧配置。
+
+---
 
 **实测状态：** 项目所有者已确认完成 Linux QQ 环境实测（2026-10-23）。已验证版本与兼容性范围见下文。
 
